@@ -42,8 +42,8 @@
   - Performed API testing using Postman and Swagger
 
   ## 📈 GitHub Stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MykolaG-F&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MykolaG-F&layout=compact&theme=radical)
 
   ## 📫 How to Reach Me
   - 📧 Email: [galych.fryz.mykola@gmail.com](mailto:galych.fryz.mykola@gmail.com)
